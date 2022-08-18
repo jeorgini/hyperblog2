@@ -12,7 +12,7 @@ body
 {
     background: #646;
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 75);
-    color: white;
+    color: deepskyblue;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
@@ -22,7 +22,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid #789;
     margin: 0 auto;
 }
 
