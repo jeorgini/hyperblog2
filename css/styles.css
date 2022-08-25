@@ -2,17 +2,18 @@ body
 {
     color: #333;
     text-align: center;
-    font-family: "Arial";
+    font-family: "Kids";
     font-size: 16px;
     margin: 0;
     padding: 0;
+    background-color: #149;
 }
 
 #cabecera
 {
     background: #646;
     box-shadow: 0px 5px 30px 0px rgba(0, 0, 0, 75);
-    color: deepskyblue;
+    color: #456;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
